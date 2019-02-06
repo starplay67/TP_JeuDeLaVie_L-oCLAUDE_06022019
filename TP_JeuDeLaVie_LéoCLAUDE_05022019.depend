@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549407044 source:c:\users\silen\documents\1 - etudes\2ème année\c\tp_jeudelavie_léoclaude_05022019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"prototypes.h"
+
+1549406824 source:c:\users\silen\documents\1 - etudes\2ème année\c\tp_jeudelavie_léoclaude_05022019\func.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"prototypes.h"
+
+1549407044 c:\users\silen\documents\1 - etudes\2ème année\c\tp_jeudelavie_léoclaude_05022019\prototypes.h
+
